@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4C90317E-E6E5-4674-A5D9-37D64D37AB05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="E-Commerce/Program.cs">
+    <Files>
+      <File FileName="E-Commerce/Program.cs" Line="57" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E-Commerce" expanded="True">
+            <Node name="E-Commerce" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.E-Commerce PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,3 @@
+/Users/kani/Projects/E-Commerce/E-Commerce/bin/Release/E-Commerce.exe
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Release/E-Commerce.csproj.CoreCompileInputs.cache
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Release/E-Commerce.exe

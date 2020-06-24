@@ -1,0 +1,6 @@
+/Users/kani/Projects/E-Commerce/E-Commerce/bin/Debug/E-Commerce.exe
+/Users/kani/Projects/E-Commerce/E-Commerce/bin/Debug/E-Commerce.pdb
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Debug/E-Commerce.csprojAssemblyReference.cache
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Debug/E-Commerce.csproj.CoreCompileInputs.cache
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Debug/E-Commerce.exe
+/Users/kani/Projects/E-Commerce/E-Commerce/obj/Debug/E-Commerce.pdb
